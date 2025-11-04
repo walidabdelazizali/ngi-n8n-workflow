@@ -252,4 +252,4 @@ Insert a Google Sheets "Append" node after email sending:
 
 **Maintained by**: National General Insurance (NGI)  
 **Contact**: Waleed Abdelaziz  
-**Last Updated**: November 4, 2025
+**Last Updated**: November 4, 2024
